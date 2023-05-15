@@ -1,4 +1,5 @@
-### Hi there 👋
+Hongjae Jnag 👋
+👨🏻‍💻 I’m backend engineer using Spring Boot
 
 <!--
 **janghongjae/janghongjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
