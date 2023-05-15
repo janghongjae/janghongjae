@@ -4,6 +4,7 @@ Hongjae Jnag 👋<br>
 Skills<br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <!--
 **janghongjae/janghongjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
