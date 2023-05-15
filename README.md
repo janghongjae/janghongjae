@@ -1,9 +1,9 @@
 Hongjae Jnag 👋<br>
 👨🏻‍💻 I’m backend engineer using Spring Boot<br>
 
-Skills
+Skills<br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white&lableColor=black"/>
+<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
 
 <!--
 **janghongjae/janghongjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
