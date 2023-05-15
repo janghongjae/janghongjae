@@ -1,5 +1,5 @@
-<h1 style ="fontsize=18pt; font = NotoSans; ">Hongjae Jnag 👋<br>
-👨🏻‍💻 I’m backend engineer using Spring Boot<br></h1>
+<p style ="fontsize=18pt; font = NotoSans; ">Hongjae Jnag 👋<br>
+👨🏻‍💻 I’m backend engineer using Spring Boot<br></p>
 
 Skills<br>
 <br>
