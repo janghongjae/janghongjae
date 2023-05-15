@@ -2,6 +2,7 @@ Hongjae Jnag 👋<br>
 👨🏻‍💻 I’m backend engineer using Spring Boot<br>
 
 Skills<br>
+<br>
 Platforms & Languages<br>
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
