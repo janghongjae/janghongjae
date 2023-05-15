@@ -3,7 +3,7 @@
 <p style ="fontsize=18pt; font = NotoSans; ">Hongjae Jnag 👋<br>
                                                                  
 👨🏻‍💻 I’m backend engineer using Spring Boot<br></p>
-
+<br>
 Skills<br>
 <br>
 Platforms & Languages<br>
