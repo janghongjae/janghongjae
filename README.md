@@ -1,6 +1,8 @@
 Hongjae Jnag 👋<br>
 👨🏻‍💻 I’m backend engineer using Spring Boot
 
+<img src="[https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white](https://careerkaizen.com/wp-content/uploads/2019/07/spring-boot-1024x256.jpg)"/>
+
 <!--
 **janghongjae/janghongjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
