@@ -1,6 +1,6 @@
  <!-- -->
 
-Hongjae Jnag 👋<br>                                                     
+Hongjae Jang 👋<br>                                                     
 👨🏻‍💻 I’m backend engineer using Spring Boot<br>
 
 <br>
