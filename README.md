@@ -4,7 +4,7 @@ Hongjae Jnag 👋<br>
 👨🏻‍💻 I’m backend engineer using Spring Boot<br>
 
 <br>
-Skills<br>
+<b>Skills</b><br>
 <br>
 
 Platforms & Languages<br>
